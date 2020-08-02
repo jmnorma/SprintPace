@@ -168,7 +168,7 @@ class ActivityView extends WatchUi.View {
         //************ ACTIVTY FINISHED **************
         if( Finshed){
             var time = Lang.format( "$1$:$2$:$3$",[elasped_mn.format("%02d"), elasped_s.format("%02d"), elasped_m.format("%02d")]); 
-            // WatchUi.switchToView(new CompletionView(distance, time), new trial1CompletionLayoutDelegate(), WatchUi.SLIDE_UP);
+            WatchUi.switchToView(new CompletionView(distance, time), new CompletionDelegate(), WatchUi.SLIDE_UP);
         }
 
         View.onUpdate(dc);

@@ -1,314 +1,390 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="10" pc="268435479" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="11" pc="268435483" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="12" pc="268435494" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="13" pc="268435515" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="15" pc="268435595" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="16" pc="268435606" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="17" pc="268435627" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="19" pc="268435707" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="20" pc="268435718" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="21" pc="268435739" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="23" pc="268435819" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="24" pc="268435830" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="4" lineNum="25" pc="268435851" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="6" lineNum="6" pc="268435932" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="6" lineNum="7" pc="268435936" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="10" pc="268435955" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="11" pc="268435959" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="12" pc="268435970" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="13" pc="268435991" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="15" pc="268436071" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="16" pc="268436082" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="17" pc="268436103" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="19" pc="268436183" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="20" pc="268436194" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="21" pc="268436215" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="23" pc="268436295" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="24" pc="268436306" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="7" lineNum="25" pc="268436327" symbol="onMenuItem"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="9" lineNum="6" pc="268436408" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="9" lineNum="7" pc="268436412" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="10" lineNum="10" pc="268436431" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="10" lineNum="11" pc="268436435" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="10" lineNum="12" pc="268436456" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="12" lineNum="5" pc="268436467" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="12" lineNum="6" pc="268436471" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="13" lineNum="11" pc="268436490" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="13" lineNum="12" pc="268436494" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="14" lineNum="16" pc="268436532" symbol="onShow"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="15" lineNum="20" pc="268436537" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="15" lineNum="21" pc="268436541" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="16" lineNum="25" pc="268436562" symbol="onHide"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="18" lineNum="37" pc="268436567" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="18" lineNum="38" pc="268436571" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="18" lineNum="39" pc="268436581" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="43" pc="268436600" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="46" pc="268436604" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="47" pc="268436630" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="49" pc="268436640" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="50" pc="268436653" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="51" pc="268436666" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="53" pc="268436679" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="55" pc="268436714" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="56" pc="268436737" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="59" pc="268436777" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="62" pc="268436796" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="63" pc="268436813" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="64" pc="268436832" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="66" pc="268436845" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="67" pc="268436870" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="72" pc="268436888" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="73" pc="268436905" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="74" pc="268436924" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="77" pc="268436940" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="80" pc="268436951" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="81" pc="268436963" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="82" pc="268436986" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="86" pc="268437035" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="87" pc="268437055" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="88" pc="268437073" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="89" pc="268437083" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="19" lineNum="92" pc="268437102" symbol="milliCallback"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="98" pc="268437122" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="99" pc="268437126" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="101" pc="268437145" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="102" pc="268437161" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="105" pc="268437196" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="107" pc="268437213" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="108" pc="268437223" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="111" pc="268437233" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="112" pc="268437248" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="116" pc="268437279" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="117" pc="268437282" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="118" pc="268437297" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="20" lineNum="123" pc="268437352" symbol="giveCountdown"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="129" pc="268437374" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="130" pc="268437378" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="132" pc="268437415" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="134" pc="268437464" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="137" pc="268437474" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="138" pc="268437487" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="141" pc="268437497" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="21" lineNum="142" pc="268437531" symbol="onLayout"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="22" lineNum="146" pc="268437573" symbol="onShow"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="150" pc="268437578" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="152" pc="268437582" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="155" pc="268437593" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="156" pc="268437604" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="157" pc="268437635" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="161" pc="268437681" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="163" pc="268437729" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="164" pc="268437847" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="169" pc="268437878" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="170" pc="268437889" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="23" lineNum="174" pc="268438010" symbol="onUpdate"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="24" lineNum="178" pc="268438031" symbol="onHide"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="26" lineNum="6" pc="268438036" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="26" lineNum="7" pc="268438040" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="27" lineNum="11" pc="268438059" symbol="onStart"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="28" lineNum="15" pc="268438064" symbol="onStop"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="29" lineNum="19" pc="268438069" symbol="getInitialView"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="29" lineNum="20" pc="268438073" symbol="getInitialView"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="31" lineNum="7" pc="268438141" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="31" lineNum="8" pc="268438145" symbol="initialize"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="11" pc="268438164" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="12" pc="268438168" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="13" pc="268438195" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="14" pc="268438222" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="16" pc="268438265" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="17" pc="268438313" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="18" pc="268438334" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="21" pc="268438421" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="22" pc="268438442" symbol="onTap"/>
-        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="32" lineNum="25" pc="268438526" symbol="onTap"/>
-        <entry filename="Rez" id="36" lineNum="11" pc="268438530" symbol="initialize"/>
-        <entry filename="Rez" id="36" lineNum="12" pc="268438534" symbol="initialize"/>
-        <entry filename="Rez" id="37" lineNum="15" pc="268438559" symbol="draw"/>
-        <entry filename="Rez" id="37" lineNum="16" pc="268438563" symbol="draw"/>
-        <entry filename="Rez" id="37" lineNum="18" pc="268438599" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="31" pc="268438627" symbol="initialize"/>
-        <entry filename="Rez" id="39" lineNum="32" pc="268438631" symbol="initialize"/>
-        <entry filename="Rez" id="40" lineNum="35" pc="268438656" symbol="draw"/>
-        <entry filename="Rez" id="40" lineNum="36" pc="268438660" symbol="draw"/>
-        <entry filename="Rez" id="40" lineNum="38" pc="268438696" symbol="draw"/>
-        <entry filename="Rez" id="40" lineNum="39" pc="268438732" symbol="draw"/>
-        <entry filename="Rez" id="42" lineNum="52" pc="268438765" symbol="initialize"/>
-        <entry filename="Rez" id="42" lineNum="53" pc="268438769" symbol="initialize"/>
-        <entry filename="Rez" id="43" lineNum="56" pc="268438794" symbol="draw"/>
-        <entry filename="Rez" id="43" lineNum="57" pc="268438798" symbol="draw"/>
-        <entry filename="Rez" id="43" lineNum="59" pc="268438827" symbol="draw"/>
-        <entry filename="Rez" id="47" lineNum="76" pc="268438855" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="78" pc="268438867" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="79" pc="268438907" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="80" pc="268438920" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="82" pc="268438936" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="83" pc="268439112" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="84" pc="268439258" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="47" lineNum="86" pc="268439404" symbol="ActivityLayout"/>
-        <entry filename="Rez" id="48" lineNum="95" pc="268439452" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="97" pc="268439464" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="98" pc="268439616" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="99" pc="268439656" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="100" pc="268439669" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="102" pc="268439685" symbol="StartupLayout"/>
-        <entry filename="Rez" id="48" lineNum="104" pc="268439837" symbol="StartupLayout"/>
-        <entry filename="Rez" id="51" lineNum="117" pc="268439875" symbol="initialize"/>
-        <entry filename="Rez" id="51" lineNum="118" pc="268439879" symbol="initialize"/>
-        <entry filename="Rez" id="51" lineNum="119" pc="268439897" symbol="initialize"/>
-        <entry filename="Rez" id="51" lineNum="120" pc="268439953" symbol="initialize"/>
-        <entry filename="Rez" id="51" lineNum="121" pc="268440009" symbol="initialize"/>
-        <entry filename="Rez" id="51" lineNum="122" pc="268440065" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="134" pc="268440122" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="135" pc="268440126" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="136" pc="268440144" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="137" pc="268440200" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="138" pc="268440256" symbol="initialize"/>
-        <entry filename="Rez" id="53" lineNum="139" pc="268440312" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="3" lineNum="16" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="3" lineNum="17" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="3" lineNum="20" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="3" lineNum="21" pc="268435488" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="4" lineNum="24" pc="268435499" symbol="timerCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="4" lineNum="25" pc="268435503" symbol="timerCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="4" lineNum="27" pc="268435513" symbol="timerCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="4" lineNum="29" pc="268435529" symbol="timerCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="33" pc="268435548" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="34" pc="268435552" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="37" pc="268435589" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="38" pc="268435623" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="41" pc="268435672" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="5" lineNum="42" pc="268435706" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="6" lineNum="46" pc="268435748" symbol="onShow"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="7" lineNum="50" pc="268435753" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="7" lineNum="53" pc="268435757" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="7" lineNum="54" pc="268435768" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="7" lineNum="57" pc="268435802" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionView.mc" id="8" lineNum="61" pc="268435823" symbol="onHide"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="10" lineNum="6" pc="268435828" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="10" lineNum="7" pc="268435832" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="10" pc="268435851" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="11" pc="268435855" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="12" pc="268435866" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="13" pc="268435887" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="15" pc="268435967" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="16" pc="268435978" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="17" pc="268435999" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="19" pc="268436079" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="20" pc="268436090" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="21" pc="268436111" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="23" pc="268436191" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="24" pc="268436202" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/SwimmingMenuDelegate.mc" id="11" lineNum="25" pc="268436223" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="13" lineNum="6" pc="268436304" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="13" lineNum="7" pc="268436308" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="10" pc="268436327" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="11" pc="268436331" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="12" pc="268436342" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="13" pc="268436363" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="15" pc="268436443" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="16" pc="268436454" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="17" pc="268436475" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="19" pc="268436555" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="20" pc="268436566" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="21" pc="268436587" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="23" pc="268436667" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="24" pc="268436678" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/MenuDelegates/RunningMenuDelegate.mc" id="14" lineNum="25" pc="268436699" symbol="onMenuItem"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="16" lineNum="6" pc="268436780" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="16" lineNum="7" pc="268436784" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="17" lineNum="10" pc="268436803" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="17" lineNum="11" pc="268436807" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityDelegate.mc" id="17" lineNum="12" pc="268436828" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="19" lineNum="5" pc="268436839" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="19" lineNum="6" pc="268436843" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="20" lineNum="11" pc="268436862" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="20" lineNum="12" pc="268436866" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="21" lineNum="16" pc="268436904" symbol="onShow"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="22" lineNum="20" pc="268436909" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="22" lineNum="21" pc="268436913" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupView.mc" id="23" lineNum="25" pc="268436934" symbol="onHide"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="25" lineNum="37" pc="268436939" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="25" lineNum="38" pc="268436943" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="25" lineNum="39" pc="268436953" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="43" pc="268436972" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="46" pc="268436976" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="47" pc="268437002" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="49" pc="268437012" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="50" pc="268437025" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="51" pc="268437038" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="53" pc="268437051" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="55" pc="268437086" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="56" pc="268437109" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="59" pc="268437149" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="62" pc="268437168" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="63" pc="268437185" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="64" pc="268437204" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="66" pc="268437217" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="67" pc="268437242" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="72" pc="268437260" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="73" pc="268437277" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="74" pc="268437296" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="77" pc="268437312" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="80" pc="268437323" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="81" pc="268437335" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="82" pc="268437358" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="86" pc="268437407" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="87" pc="268437427" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="88" pc="268437445" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="89" pc="268437455" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="26" lineNum="92" pc="268437474" symbol="milliCallback"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="98" pc="268437494" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="99" pc="268437498" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="101" pc="268437517" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="102" pc="268437533" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="105" pc="268437568" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="107" pc="268437585" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="108" pc="268437595" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="111" pc="268437605" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="112" pc="268437620" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="116" pc="268437651" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="117" pc="268437654" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="118" pc="268437669" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="27" lineNum="123" pc="268437724" symbol="giveCountdown"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="129" pc="268437746" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="130" pc="268437750" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="132" pc="268437787" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="134" pc="268437836" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="137" pc="268437846" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="138" pc="268437859" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="141" pc="268437869" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="28" lineNum="142" pc="268437903" symbol="onLayout"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="29" lineNum="146" pc="268437945" symbol="onShow"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="150" pc="268437950" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="152" pc="268437954" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="155" pc="268437965" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="156" pc="268437976" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="157" pc="268438007" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="161" pc="268438053" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="163" pc="268438101" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="164" pc="268438219" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="169" pc="268438250" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="170" pc="268438261" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="171" pc="268438379" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="30" lineNum="174" pc="268438464" symbol="onUpdate"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/ActivityView.mc" id="31" lineNum="178" pc="268438485" symbol="onHide"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="33" lineNum="6" pc="268438490" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="33" lineNum="7" pc="268438494" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="34" lineNum="11" pc="268438513" symbol="onStart"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="35" lineNum="15" pc="268438518" symbol="onStop"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="36" lineNum="19" pc="268438523" symbol="getInitialView"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/SprintPaceApp.mc" id="36" lineNum="20" pc="268438527" symbol="getInitialView"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="38" lineNum="7" pc="268438595" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="38" lineNum="8" pc="268438599" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="11" pc="268438618" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="12" pc="268438622" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="13" pc="268438649" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="14" pc="268438676" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="16" pc="268438719" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="17" pc="268438767" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="18" pc="268438788" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="21" pc="268438875" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="22" pc="268438896" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/StartUp/StartupDelegate.mc" id="39" lineNum="25" pc="268438980" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionDelegate.mc" id="41" lineNum="6" pc="268438984" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionDelegate.mc" id="41" lineNum="7" pc="268438988" symbol="initialize"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionDelegate.mc" id="42" lineNum="10" pc="268439007" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionDelegate.mc" id="42" lineNum="11" pc="268439011" symbol="onTap"/>
+        <entry filename="/Users/josh/SchoolDocuments/CPSC/Garmin/SprintPace/source/Activty/CompletionDelegate.mc" id="42" lineNum="12" pc="268439032" symbol="onTap"/>
+        <entry filename="Rez" id="46" lineNum="11" pc="268439113" symbol="initialize"/>
+        <entry filename="Rez" id="46" lineNum="12" pc="268439117" symbol="initialize"/>
+        <entry filename="Rez" id="47" lineNum="15" pc="268439142" symbol="draw"/>
+        <entry filename="Rez" id="47" lineNum="16" pc="268439146" symbol="draw"/>
+        <entry filename="Rez" id="47" lineNum="18" pc="268439182" symbol="draw"/>
+        <entry filename="Rez" id="49" lineNum="31" pc="268439210" symbol="initialize"/>
+        <entry filename="Rez" id="49" lineNum="32" pc="268439214" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="35" pc="268439239" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="36" pc="268439243" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="38" pc="268439279" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="39" pc="268439315" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="52" pc="268439348" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="53" pc="268439352" symbol="initialize"/>
+        <entry filename="Rez" id="53" lineNum="56" pc="268439377" symbol="draw"/>
+        <entry filename="Rez" id="53" lineNum="57" pc="268439381" symbol="draw"/>
+        <entry filename="Rez" id="53" lineNum="59" pc="268439410" symbol="draw"/>
+        <entry filename="Rez" id="57" lineNum="76" pc="268439438" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="78" pc="268439450" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="79" pc="268439490" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="80" pc="268439503" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="82" pc="268439519" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="83" pc="268439695" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="84" pc="268439841" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="57" lineNum="86" pc="268439987" symbol="ActivityLayout"/>
+        <entry filename="Rez" id="58" lineNum="95" pc="268440035" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="97" pc="268440047" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="98" pc="268440199" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="99" pc="268440239" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="100" pc="268440252" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="102" pc="268440268" symbol="StartupLayout"/>
+        <entry filename="Rez" id="58" lineNum="104" pc="268440420" symbol="StartupLayout"/>
+        <entry filename="Rez" id="59" lineNum="113" pc="268440458" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="115" pc="268440470" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="116" pc="268440510" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="117" pc="268440523" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="119" pc="268440539" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="120" pc="268440715" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="121" pc="268440861" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="59" lineNum="123" pc="268441007" symbol="CompletionLayout"/>
+        <entry filename="Rez" id="62" lineNum="136" pc="268441055" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="137" pc="268441059" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="138" pc="268441077" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="139" pc="268441133" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="140" pc="268441189" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="141" pc="268441245" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="153" pc="268441302" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="154" pc="268441306" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="155" pc="268441324" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="156" pc="268441380" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="157" pc="268441436" symbol="initialize"/>
+        <entry filename="Rez" id="64" lineNum="158" pc="268441492" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="42" symbol="&lt;globals/CompletionView/&lt;&gt;time&gt;"/>
         <entry id="8388987" method="true" symbol="vibrate"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="16" object="true" symbol="StartupDelegate"/>
-        <entry field="true" id="39" symbol="&lt;globals/ActivityView/&lt;&gt;distStart&gt;"/>
+        <entry field="true" id="43" symbol="altText"/>
+        <entry id="18" object="true" symbol="StartupDelegate"/>
+        <entry field="true" id="46" symbol="&lt;globals/ActivityView/&lt;&gt;distStart&gt;"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="10" object="true" symbol="RunningMenuDelegate"/>
+        <entry id="12" object="true" symbol="RunningMenuDelegate"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="55" symbol="Swimming_item_4"/>
-        <entry id="54" symbol="Swimming_item_3"/>
-        <entry id="53" symbol="Swimming_item_2"/>
-        <entry id="52" symbol="Swimming_item_1"/>
-        <entry field="true" id="46" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_mn&gt;"/>
-        <entry field="true" id="13" symbol="startFromTap"/>
+        <entry field="true" id="9" symbol="activity_distance"/>
+        <entry id="19" object="true" symbol="CompletionDelegate"/>
+        <entry id="62" symbol="Swimming_item_4"/>
+        <entry id="61" symbol="Swimming_item_3"/>
+        <entry id="60" symbol="Swimming_item_2"/>
+        <entry id="59" symbol="Swimming_item_1"/>
+        <entry field="true" id="53" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_mn&gt;"/>
+        <entry field="true" id="15" symbol="startFromTap"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="9" object="true" symbol="SwimmingMenuDelegate"/>
+        <entry id="11" object="true" symbol="SwimmingMenuDelegate"/>
         <entry id="8389068" method="true" symbol="draw"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="45" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_s&gt;"/>
-        <entry id="20" object="true" symbol="greenCircle"/>
-        <entry field="true" id="43" symbol="&lt;globals/ActivityView/&lt;&gt;reset&gt;"/>
+        <entry field="true" id="52" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_s&gt;"/>
+        <entry id="23" object="true" symbol="greenCircle"/>
+        <entry id="10" object="true" symbol="CompletionView"/>
+        <entry field="true" id="50" symbol="&lt;globals/ActivityView/&lt;&gt;reset&gt;"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="29" symbol="swimming_menu_label_4"/>
-        <entry field="true" id="30" symbol="swimming_menu_label_3"/>
-        <entry field="true" id="27" symbol="swimming_menu_label_2"/>
-        <entry field="true" id="28" symbol="swimming_menu_label_1"/>
-        <entry field="true" id="44" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_m&gt;"/>
-        <entry id="21" object="true" symbol="line"/>
-        <entry id="26" method="true" symbol="StartupLayout"/>
+        <entry field="true" id="33" symbol="swimming_menu_label_4"/>
+        <entry field="true" id="34" symbol="swimming_menu_label_3"/>
+        <entry field="true" id="31" symbol="swimming_menu_label_2"/>
+        <entry field="true" id="32" symbol="swimming_menu_label_1"/>
+        <entry field="true" id="51" symbol="&lt;globals/ActivityView/&lt;&gt;elasped_m&gt;"/>
+        <entry id="24" object="true" symbol="line"/>
+        <entry id="29" method="true" symbol="StartupLayout"/>
         <entry id="8389098" method="true" symbol="onTap"/>
         <entry id="8388636" module="true" symbol="Attention"/>
-        <entry id="11" object="true" symbol="ActivityDelegate"/>
+        <entry id="13" object="true" symbol="ActivityDelegate"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="37" symbol="AppName"/>
-        <entry id="51" method="true" symbol="giveCountdown"/>
-        <entry id="12" object="true" symbol="StartupView"/>
-        <entry field="true" id="47" symbol="&lt;globals/ActivityView/&lt;&gt;countdown&gt;"/>
-        <entry field="true" id="19" symbol="LauncherIcon"/>
-        <entry field="true" id="42" symbol="&lt;globals/ActivityView/&lt;&gt;milliTimmer&gt;"/>
+        <entry field="true" id="41" symbol="AppName"/>
+        <entry id="58" method="true" symbol="giveCountdown"/>
+        <entry id="14" object="true" symbol="StartupView"/>
+        <entry field="true" id="54" symbol="&lt;globals/ActivityView/&lt;&gt;countdown&gt;"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry field="true" id="49" symbol="&lt;globals/ActivityView/&lt;&gt;milliTimmer&gt;"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry field="true" id="8388696" symbol="timer1"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry id="15" object="true" symbol="SprintPaceApp"/>
+        <entry id="17" object="true" symbol="SprintPaceApp"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="23" object="true" symbol="RunningMenu"/>
-        <entry field="true" id="38" symbol="&lt;globals/ActivityView/&lt;&gt;distance&gt;"/>
+        <entry id="26" object="true" symbol="RunningMenu"/>
+        <entry field="true" id="45" symbol="&lt;globals/ActivityView/&lt;&gt;distance&gt;"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8388985" method="true" symbol="playTone"/>
         <entry id="8389348" symbol="font"/>
-        <entry field="true" id="48" symbol="&lt;globals/ActivityView/&lt;&gt;countdown_bool&gt;"/>
-        <entry field="true" id="33" symbol="Running"/>
+        <entry field="true" id="55" symbol="&lt;globals/ActivityView/&lt;&gt;countdown_bool&gt;"/>
+        <entry field="true" id="37" symbol="Running"/>
         <entry id="8389347" symbol="color"/>
-        <entry id="24" object="true" symbol="SwimmingMenu"/>
+        <entry id="27" object="true" symbol="SwimmingMenu"/>
         <entry id="8389109" method="true" symbol="onMenuItem"/>
-        <entry id="14" object="true" symbol="ActivityView"/>
-        <entry id="25" method="true" symbol="ActivityLayout"/>
-        <entry id="17" module="true" symbol="Layouts"/>
+        <entry id="16" object="true" symbol="ActivityView"/>
+        <entry id="28" method="true" symbol="ActivityLayout"/>
+        <entry id="20" module="true" symbol="Layouts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="44" method="true" symbol="timerCallback"/>
         <entry id="8389346" symbol="text"/>
-        <entry id="50" method="true" symbol="milliCallback"/>
-        <entry field="true" id="41" symbol="&lt;globals/ActivityView/&lt;&gt;activityInfo&gt;"/>
-        <entry field="true" id="36" symbol="running_menu_label_4"/>
-        <entry field="true" id="35" symbol="running_menu_label_3"/>
+        <entry id="57" method="true" symbol="milliCallback"/>
+        <entry field="true" id="48" symbol="&lt;globals/ActivityView/&lt;&gt;activityInfo&gt;"/>
+        <entry field="true" id="40" symbol="running_menu_label_4"/>
+        <entry field="true" id="39" symbol="running_menu_label_3"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="32" symbol="running_menu_label_2"/>
-        <entry field="true" id="31" symbol="running_menu_label_1"/>
-        <entry id="18" module="true" symbol="Menus"/>
-        <entry id="22" object="true" symbol="redCircle"/>
+        <entry field="true" id="36" symbol="running_menu_label_2"/>
+        <entry field="true" id="35" symbol="running_menu_label_1"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="25" object="true" symbol="redCircle"/>
+        <entry id="30" method="true" symbol="CompletionLayout"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="34" symbol="Swimming"/>
-        <entry field="true" id="49" symbol="&lt;globals/ActivityView/&lt;&gt;Finshed&gt;"/>
+        <entry field="true" id="38" symbol="Swimming"/>
+        <entry field="true" id="56" symbol="&lt;globals/ActivityView/&lt;&gt;Finshed&gt;"/>
         <entry id="8388633" module="true" symbol="ActivityMonitor"/>
-        <entry field="true" id="40" symbol="&lt;globals/ActivityView/&lt;&gt;distMiles&gt;"/>
-        <entry id="59" symbol="Running_item_4"/>
-        <entry id="58" symbol="Running_item_3"/>
-        <entry id="57" symbol="Running_item_2"/>
-        <entry id="56" symbol="Running_item_1"/>
+        <entry field="true" id="47" symbol="&lt;globals/ActivityView/&lt;&gt;distMiles&gt;"/>
+        <entry id="66" symbol="Running_item_4"/>
+        <entry id="65" symbol="Running_item_3"/>
+        <entry id="64" symbol="Running_item_2"/>
+        <entry id="63" symbol="Running_item_1"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435932" name="item" stackId="1" startPc="268435479"/>
-        <entry endPc="268436408" name="item" stackId="1" startPc="268435955"/>
-        <entry endPc="268436467" name="clickEvent" stackId="1" startPc="268436431"/>
-        <entry endPc="268436532" name="dc" stackId="1" startPc="268436490"/>
-        <entry endPc="268436562" name="dc" stackId="1" startPc="268436537"/>
-        <entry endPc="268436600" name="dist" stackId="1" startPc="268436567"/>
-        <entry endPc="268437370" name="vibeData" stackId="1" startPc="268437213"/>
-        <entry endPc="268437573" name="dc" stackId="1" startPc="268437374"/>
-        <entry endPc="268437875" name="time" stackId="2" startPc="268437681"/>
-        <entry endPc="268438007" name="time" stackId="3" startPc="268437889"/>
-        <entry endPc="268438031" name="dc" stackId="1" startPc="268437578"/>
-        <entry endPc="268438064" name="state" stackId="1" startPc="268438059"/>
-        <entry endPc="268438069" name="state" stackId="1" startPc="268438064"/>
-        <entry endPc="268438530" name="clickEvent" stackId="1" startPc="268438164"/>
-        <entry endPc="268438627" name="dc" stackId="1" startPc="268438559"/>
-        <entry endPc="268438765" name="dc" stackId="1" startPc="268438656"/>
-        <entry endPc="268438855" name="dc" stackId="1" startPc="268438794"/>
-        <entry endPc="268439451" name="rez_cmp_local_text_time" stackId="3" startPc="268438867"/>
-        <entry endPc="268439451" name="rez_cmp_local_text_start" stackId="5" startPc="268438867"/>
-        <entry endPc="268439451" name="rez_cmp_local_text_distance" stackId="4" startPc="268438867"/>
-        <entry endPc="268439451" name="rez_cmp_local_custom_drawable_redCircle" stackId="2" startPc="268438867"/>
-        <entry endPc="268439452" name="dc" stackId="1" startPc="268438855"/>
-        <entry endPc="268439874" name="rez_cmp_local_text_1209986003" stackId="2" startPc="268439464"/>
-        <entry endPc="268439874" name="rez_cmp_local_custom_drawable_line" stackId="3" startPc="268439464"/>
-        <entry endPc="268439874" name="rez_cmp_local_text_1951612077" stackId="4" startPc="268439464"/>
-        <entry endPc="268439875" name="dc" stackId="1" startPc="268439452"/>
+        <entry endPc="268435499" name="t" stackId="2" startPc="268435456"/>
+        <entry endPc="268435499" name="d" stackId="1" startPc="268435456"/>
+        <entry endPc="268435748" name="dc" stackId="1" startPc="268435548"/>
+        <entry endPc="268435823" name="dc" stackId="1" startPc="268435753"/>
+        <entry endPc="268436304" name="item" stackId="1" startPc="268435851"/>
+        <entry endPc="268436780" name="item" stackId="1" startPc="268436327"/>
+        <entry endPc="268436839" name="clickEvent" stackId="1" startPc="268436803"/>
+        <entry endPc="268436904" name="dc" stackId="1" startPc="268436862"/>
+        <entry endPc="268436934" name="dc" stackId="1" startPc="268436909"/>
+        <entry endPc="268436972" name="dist" stackId="1" startPc="268436939"/>
+        <entry endPc="268437742" name="vibeData" stackId="1" startPc="268437585"/>
+        <entry endPc="268437945" name="dc" stackId="1" startPc="268437746"/>
+        <entry endPc="268438247" name="time" stackId="2" startPc="268438053"/>
+        <entry endPc="268438461" name="time" stackId="3" startPc="268438261"/>
+        <entry endPc="268438485" name="dc" stackId="1" startPc="268437950"/>
+        <entry endPc="268438518" name="state" stackId="1" startPc="268438513"/>
+        <entry endPc="268438523" name="state" stackId="1" startPc="268438518"/>
+        <entry endPc="268438984" name="clickEvent" stackId="1" startPc="268438618"/>
+        <entry endPc="268439113" name="clickEvent" stackId="1" startPc="268439007"/>
+        <entry endPc="268439210" name="dc" stackId="1" startPc="268439142"/>
+        <entry endPc="268439348" name="dc" stackId="1" startPc="268439239"/>
+        <entry endPc="268439438" name="dc" stackId="1" startPc="268439377"/>
+        <entry endPc="268440034" name="rez_cmp_local_text_time" stackId="3" startPc="268439450"/>
+        <entry endPc="268440034" name="rez_cmp_local_text_start" stackId="5" startPc="268439450"/>
+        <entry endPc="268440034" name="rez_cmp_local_text_distance" stackId="4" startPc="268439450"/>
+        <entry endPc="268440034" name="rez_cmp_local_custom_drawable_redCircle" stackId="2" startPc="268439450"/>
+        <entry endPc="268440035" name="dc" stackId="1" startPc="268439438"/>
+        <entry endPc="268440457" name="rez_cmp_local_text_5664978913" stackId="2" startPc="268440047"/>
+        <entry endPc="268440457" name="rez_cmp_local_custom_drawable_line" stackId="3" startPc="268440047"/>
+        <entry endPc="268440457" name="rez_cmp_local_text_1767028256" stackId="4" startPc="268440047"/>
+        <entry endPc="268440458" name="dc" stackId="1" startPc="268440035"/>
+        <entry endPc="268441054" name="rez_cmp_local_text_time" stackId="3" startPc="268440470"/>
+        <entry endPc="268441054" name="rez_cmp_local_custom_drawable_greenCircle" stackId="2" startPc="268440470"/>
+        <entry endPc="268441054" name="rez_cmp_local_text_distance" stackId="4" startPc="268440470"/>
+        <entry endPc="268441054" name="rez_cmp_local_text_complete" stackId="5" startPc="268440470"/>
+        <entry endPc="268441055" name="dc" stackId="1" startPc="268440458"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="198" parentId="globals" symbolId="SprintPaceApp" type="class"/>
-        <dataEntry offset="269" parentId="globals" symbolId="StartupView" type="class"/>
-        <dataEntry offset="348" parentId="globals" symbolId="StartupDelegate" type="class"/>
-        <dataEntry offset="403" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="482" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="545" parentId="Drawables" symbolId="line" type="class"/>
-        <dataEntry offset="600" parentId="Drawables" symbolId="greenCircle" type="class"/>
-        <dataEntry offset="655" parentId="Drawables" symbolId="redCircle" type="class"/>
-        <dataEntry offset="710" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="757" parentId="Menus" symbolId="SwimmingMenu" type="class"/>
-        <dataEntry offset="804" parentId="Menus" symbolId="RunningMenu" type="class"/>
-        <dataEntry offset="851" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="882" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="929" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="960" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="1079" parentId="globals" symbolId="SwimmingMenuDelegate" type="class"/>
-        <dataEntry offset="1134" parentId="globals" symbolId="RunningMenuDelegate" type="class"/>
-        <dataEntry offset="1189" parentId="globals" symbolId="ActivityView" type="class"/>
-        <dataEntry offset="1380" parentId="globals" symbolId="ActivityDelegate" type="class"/>
+        <dataEntry offset="222" parentId="globals" symbolId="ActivityDelegate" type="class"/>
+        <dataEntry offset="277" parentId="globals" symbolId="RunningMenuDelegate" type="class"/>
+        <dataEntry offset="332" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="474" parentId="Drawables" symbolId="line" type="class"/>
+        <dataEntry offset="529" parentId="Drawables" symbolId="greenCircle" type="class"/>
+        <dataEntry offset="584" parentId="Drawables" symbolId="redCircle" type="class"/>
+        <dataEntry offset="639" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="686" parentId="Menus" symbolId="SwimmingMenu" type="class"/>
+        <dataEntry offset="733" parentId="Menus" symbolId="RunningMenu" type="class"/>
+        <dataEntry offset="780" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="811" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="866" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="897" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1016" parentId="globals" symbolId="SprintPaceApp" type="class"/>
+        <dataEntry offset="1087" parentId="globals" symbolId="CompletionDelegate" type="class"/>
+        <dataEntry offset="1142" parentId="globals" symbolId="CompletionView" type="class"/>
+        <dataEntry offset="1253" parentId="globals" symbolId="ActivityView" type="class"/>
+        <dataEntry offset="1444" parentId="globals" symbolId="StartupDelegate" type="class"/>
+        <dataEntry offset="1499" parentId="globals" symbolId="StartupView" type="class"/>
+        <dataEntry offset="1578" parentId="globals" symbolId="SwimmingMenuDelegate" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
+        <functionEntry accessMode="public" name="initialize" parent="CompletionView">
+            <param id="d"/>
+            <param id="t"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="CompletionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CompletionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="CompletionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CompletionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="CompletionView">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="SwimmingMenuDelegate">
             <documentation/>
         </functionEntry>
@@ -392,6 +468,13 @@
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CompletionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="CompletionDelegate">
+            <param id="clickEvent"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="greenCircle">
             <documentation/>
         </functionEntry>
@@ -418,6 +501,10 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="StartupLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="CompletionLayout" parent="Layouts">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
