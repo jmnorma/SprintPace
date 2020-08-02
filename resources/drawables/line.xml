@@ -1,0 +1,5 @@
+<resources>
+    <drawable-list id="line" foreground="Graphics.COLOR_WHITE">
+        <shape type="rectangle" x="center" y="center"  width="(dc.getWidth()*.75)" height="3" color="Graphics.COLOR_WHITE" /> 
+    </drawable-list>
+</resources>

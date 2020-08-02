@@ -1,0 +1,6 @@
+<menu id="RunningMenu">
+    <menu-item id="Running_item_1" label="@Strings.running_menu_label_1" />
+    <menu-item id="Running_item_2" label="@Strings.running_menu_label_2" />
+    <menu-item id="Running_item_3" label="@Strings.running_menu_label_3" />
+    <menu-item id="Running_item_4" label="@Strings.running_menu_label_4" />
+</menu>

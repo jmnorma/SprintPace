@@ -17,7 +17,7 @@ class SprintPaceApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new SprintPaceView(), new SprintPaceDelegate() ];
+        return [ new StartupView(), new StartupDelegate() ];
     }
 
 }

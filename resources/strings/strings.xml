@@ -1,8 +1,13 @@
 <strings>
     <string id="AppName">SprintPace</string>
-
-    <string id="prompt">Click the menu button</string>
-
-    <string id="menu_label_1">Item 1</string>
-    <string id="menu_label_2">Item 2</string>
+    <string id="Running">Running</string>
+    <string id="Swimming">Swimming</string>
+    <string id="running_menu_label_1">100 Meters</string>
+    <string id="running_menu_label_2">200 Meters</string>
+    <string id="running_menu_label_3">400 Meters</string>
+    <string id="running_menu_label_4">800 Meters</string>
+    <string id="swimming_menu_label_1">25 Meters</string>
+    <string id="swimming_menu_label_2">50 Meters</string>
+    <string id="swimming_menu_label_3">75 Meters</string>
+    <string id="swimming_menu_label_4">100 Meters</string>
 </strings>

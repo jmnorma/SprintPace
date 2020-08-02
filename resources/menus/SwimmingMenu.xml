@@ -1,0 +1,6 @@
+<menu id="SwimmingMenu">
+    <menu-item id="Swimming_item_1" label="@Strings.swimming_menu_label_1" />
+    <menu-item id="Swimming_item_2" label="@Strings.swimming_menu_label_2" />
+    <menu-item id="Swimming_item_3" label="@Strings.swimming_menu_label_3" />
+    <menu-item id="Swimming_item_4" label="@Strings.swimming_menu_label_4" />
+</menu>
