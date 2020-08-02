@@ -1,0 +1,5 @@
+<resources>
+    <drawable-list id="redCircle" foreground="0xdb5120">
+        <shape type="circle" x="center" y="center"  radius="(dc.getHeight()/ 1.5)" /> 
+    </drawable-list>
+</resources>

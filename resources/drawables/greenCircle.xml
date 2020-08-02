@@ -1,0 +1,6 @@
+ 
+ <resources>
+    <drawable-list id="greenCircle" foreground="Graphics.COLOR_DK_GREEN">
+        <shape type="circle" x="center" y="center"  radius="(dc.getHeight()/ 1.5)" /> 
+    </drawable-list>
+</resources>
