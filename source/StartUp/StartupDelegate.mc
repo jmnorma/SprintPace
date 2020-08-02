@@ -15,11 +15,11 @@ class StartupDelegate extends WatchUi.BehaviorDelegate {
 
         if (clickEvent.getCoordinates()[1] < System.getDeviceSettings().screenHeight/2){
             System.println("Running");
-            //  WatchUi.pushView(new Rez.Menus.RunningMenu(), new trial1RunningMenuDelegate(), WatchUi.SLIDE_UP);
+            WatchUi.pushView(new Rez.Menus.RunningMenu(), new RunningMenuDelegate(), WatchUi.SLIDE_UP);
         }
         else{
             System.println("Swimming");
-            //  WatchUi.pushView(new Rez.Menus.SwimmingMenu(), new trial1SwimmingMenuDelegate(), WatchUi.SLIDE_UP);
+            WatchUi.pushView(new Rez.Menus.SwimmingMenu(), new SwimmingMenuDelegate(), WatchUi.SLIDE_UP);
         }
 
         return true;
