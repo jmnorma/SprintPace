@@ -327,9 +327,9 @@
         <entry endPc="268440034" name="rez_cmp_local_text_distance" stackId="4" startPc="268439450"/>
         <entry endPc="268440034" name="rez_cmp_local_custom_drawable_redCircle" stackId="2" startPc="268439450"/>
         <entry endPc="268440035" name="dc" stackId="1" startPc="268439438"/>
-        <entry endPc="268440457" name="rez_cmp_local_text_5664978913" stackId="2" startPc="268440047"/>
         <entry endPc="268440457" name="rez_cmp_local_custom_drawable_line" stackId="3" startPc="268440047"/>
-        <entry endPc="268440457" name="rez_cmp_local_text_1767028256" stackId="4" startPc="268440047"/>
+        <entry endPc="268440457" name="rez_cmp_local_text_7933456481" stackId="2" startPc="268440047"/>
+        <entry endPc="268440457" name="rez_cmp_local_text_1039161294" stackId="4" startPc="268440047"/>
         <entry endPc="268440458" name="dc" stackId="1" startPc="268440035"/>
         <entry endPc="268441054" name="rez_cmp_local_text_time" stackId="3" startPc="268440470"/>
         <entry endPc="268441054" name="rez_cmp_local_custom_drawable_greenCircle" stackId="2" startPc="268440470"/>
